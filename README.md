@@ -6,7 +6,7 @@ Delhivery is the largest and fastest-growing fully integrated player in India by
 
 The Data team builds intelligence and capabilities using this data that helps them to widen the gap between the quality, efficiency, and profitability of their business versus their competitors.
 
-The company wants to understand and process the data coming out of data engineering pipelines:
+**The company wants to understand and process the data coming out of data engineering pipelines:**
 
 • Clean, sanitize and manipulate data to get useful features out of raw fields
 
@@ -47,7 +47,6 @@ The company wants to understand and process the data coming out of data engineer
 - Handling Missing values
 - Outlier treatment
 - Feature Creation
-- Relationship between Features
 - Hypothesis Testing
 - one-hot encoding on categorical features
 - Column Normalization /Column Standardization
